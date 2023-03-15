@@ -1,13 +1,13 @@
 ### Olá Pessoal 👋 Sou Luiz Gustavo e...
 
-- 🔭 Atualmente não trabalho como desenvolvedor.
-- 🌱 Foco de estudos, front-end "HTML, CSS, JavaScript" (Próxima etapa: Framewoks).
-- ⚡ Em busca de uma oportunidade de iniciar na Carreira como DEV.
+- ⚡ Foco de estudos no front-end. 
+- 🌱 Pojetos e aplicações realizados com "HTML, CSS, JavaScript, Bootstrap".
 - 💬 Sempre muito curioso por conhecimento.
 - 📫 Contatos: github.com/Gus3tavo  //  dev.guster@gmail.com
 
 
 <!--
+- 🔭
 - 👯
 - 🤔 
 - 😄
