@@ -13,7 +13,7 @@
 ##
 
 - ⚡ Foco em Front-end. 
-- 🚧 Em andamento nos estudos.
+- 🚧 Atuando como Desenvolvedor Freelancer.
 - 💬 Sempre muito curioso por conhecimento.
 
 ##
