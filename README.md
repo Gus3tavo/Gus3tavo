@@ -1,12 +1,36 @@
-### Olá Pessoal 👋 Sou Luiz Gustavo e...
+### <h1>Olá Pessoal 👋 Sou Luiz Gustavo ...</h1> 
 
-- ⚡ Foco de estudos no front-end. 
-- 🌱 Projetos e aplicações realizados com "HTML, CSS, JS, Bootstrap".
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"> 
+  <img align="center" alt="Git-hub" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
+  <img align="center" alt="Netlify" height="30" width="90" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+</div>
+
+##
+
+- ⚡ Foco em Front-end. 
+- 🚧 Em andamento nos estudos.
 - 💬 Sempre muito curioso por conhecimento.
-- 📫 Contatos: github.com/Gus3tavo  //  dev.guster@gmail.com
+
+##
+- 📫 Contatos:
+<div>
+   
+  
+  <a href="https://wa.me/5562992784228"><img align="center" alt="whatsApp" height="30" width="110" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  
+  <a href="mailto:dev.guster@gmail.com"><img align="center" alt="whatsApp" height="30" width="110" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  
+</div>
+
 
 
 <!--
+🌱
 - 🔭
 - 👯
 - 🤔 
