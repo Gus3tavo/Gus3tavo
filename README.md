@@ -11,6 +11,7 @@
 </div>
 
 ##
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gus3tavo&layout=compact)
 
 - ⚡ Foco em Front-end. 
 - 🚧 Atuando como Desenvolvedor Freelancer.
@@ -30,6 +31,7 @@
 
 
 <!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gus3tavo&langs_count=8)
 🌱
 - 🔭
 - 👯
