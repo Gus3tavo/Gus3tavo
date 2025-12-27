@@ -11,7 +11,9 @@
 </div>
 
 ##
-//![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gus3tavo&layout=compact)
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gus3tavo&layout=compact)
+-->
 
 - ⚡ Desenvolvedor Full-stack. 
 - 🚧 Atuando como Freelancer.
