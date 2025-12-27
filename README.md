@@ -11,10 +11,10 @@
 </div>
 
 ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gus3tavo&layout=compact)
+//![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gus3tavo&layout=compact)
 
-- ⚡ Foco em Front-end. 
-- 🚧 Atuando como Desenvolvedor Freelancer.
+- ⚡ Desenvolvedor Full-stack. 
+- 🚧 Atuando como Freelancer.
 - 💬 Sempre muito curioso por conhecimento.
 
 ##
